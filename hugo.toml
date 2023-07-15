@@ -1,4 +1,4 @@
-baseURL = 'http://teeramaet.githu.io/' 
+baseURL = 'http://teeramaet.github.io/' 
 languageCode = 'en-us'
 theme = "JuiceBar"
 title = "The Script Guy"
